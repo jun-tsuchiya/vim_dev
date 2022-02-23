@@ -1,15 +1,15 @@
 # [[dein.toml]]
-
-[[plugins]]
-repo = 'yegappan/grep'
-
-[[plugins]]
-repo = 'LeafCage/vimhelpgenerator'
-
-[[plugins]]
-repo = 'simeji/winresizer'
-
-[[plugins]]
-repo = 'tomasr/molokai'
-
+#
+#[[plugins]]
+#repo = 'yegappan/grep'
+#
+#[[plugins]]
+#repo = 'LeafCage/vimhelpgenerator'
+#
+#[[plugins]]
+#repo = 'simeji/winresizer'
+#
+#[[plugins]]
+#repo = 'tomasr/molokai'
+#
 
